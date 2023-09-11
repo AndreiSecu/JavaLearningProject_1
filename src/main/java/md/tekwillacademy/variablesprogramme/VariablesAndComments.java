@@ -44,6 +44,10 @@ public class VariablesAndComments {
 
         System.out.println("The phone is charged " + isCharged);
 
+
         System.out.println("The phone price is " + price);
+
+        // WINDOWS CTRL + ALT + L
+        // COMMAND + ALT + L
     }
 }
