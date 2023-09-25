@@ -34,6 +34,8 @@ public class ExecutionService {
         Customer customer2 = new Customer("Elena Cosanzeana", "Femenin", 18);
         System.out.println(customer2.toString());
 
+        System.out.println(DataGeneratorUtil.getRandomEmail(10, "mailinator.com"));
+
 
     }
 }
